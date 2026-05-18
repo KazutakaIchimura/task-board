@@ -4,6 +4,10 @@
 
 タスク管理ボードアプリケーション。
 
+## リポジトリ
+
+https://github.com/KazutakaIchimura/task-board
+
 ## Git 運用ルール
 
 ### コード変更時の必須手順
